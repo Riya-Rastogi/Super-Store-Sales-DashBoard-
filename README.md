@@ -1,5 +1,6 @@
-![Objective]('https://github.com/Riya-Rastogi/Super-Store-Sales-DashBoard-/blob/b098c0e4d04e8723f002a29c18805432310331c7/Objective.jpeg')
-![DashBoard]('https://github.com/Riya-Rastogi/Super-Store-Sales-DashBoard-/blob/b098c0e4d04e8723f002a29c18805432310331c7/Dashboard.png')
+![Objective](https://github.com/Riya-Rastogi/Super-Store-Sales-DashBoard-/blob/b098c0e4d04e8723f002a29c18805432310331c7/Objective.jpeg)
+![Sales Dashboard 2](https://github.com/Riya-Rastogi/Super-Store-Sales-DashBoard-/blob/b098c0e4d04e8723f002a29c18805432310331c7/Dashboard.png)
+
 This Power BI report presents an end-to-end sales analytics dashboard designed to help users explore sales performance and key business metrics interactively.
 It combines data transformation, modeling, DAX measures, and a variety of visuals to deliver actionable insights.
 
